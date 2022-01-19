@@ -9,7 +9,7 @@
 
 💻 MSc Software Engineering, just because
 ## 🛠 My Skills
-HTML, CSS, JS, React, React Native, NextJs, MySQL, MongoDB, .NET, C#
+HTML, CSS, JS, React, React Native, Expo, NextJs, MySQL, MongoDB, Firebase, Vercel, .NET, C#
 
 
 ## 🔗 Follow me
