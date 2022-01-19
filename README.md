@@ -7,7 +7,21 @@
 - 💻 MSc Software Engineering, just because
 
 ## 🛠 My Skills
-HTML, CSS, JS, React, React Native, Expo, NextJs, MySQL, MongoDB, Firebase, Vercel, .NET, C#
+
+### Frontend
+HTML, CSS, Tailwindcss
+
+### Backend / Libraries / Frameworks
+React, React Native, Expo, NextJS
+
+### Databases
+MySQL, MongoDB, GraphQL
+
+### Languages
+JS, C#, PHP
+
+### Plataforms / Services
+Vercel, Wordpress, Cloudflare, GoDaddy
 
 ## 🔗 Follow me
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=flat-square&logo=ko-fi&logoColor=white)](https://jorgeolarte.com/)
