@@ -1,16 +1,13 @@
 
 # Hi, I'm Jorge! 👋
 
-🚀 Digital Entrepreneur
+- 🚀 Digital Entrepreneur
+- 🤓 Geek 
+- 😎 Teacher as vocation
+- 💻 MSc Software Engineering, just because
 
-🤓 Geek 
-
-😎 Teacher as vocation
-
-💻 MSc Software Engineering, just because
 ## 🛠 My Skills
 HTML, CSS, JS, React, React Native, Expo, NextJs, MySQL, MongoDB, Firebase, Vercel, .NET, C#
-
 
 ## 🔗 Follow me
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=flat-square&logo=ko-fi&logoColor=white)](https://jorgeolarte.com/)
