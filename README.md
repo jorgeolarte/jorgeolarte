@@ -31,7 +31,13 @@
 ![PHP](https://img.shields.io/badge/PHP-808bb6?style=for-the-badge&logo=php&logoColor=white)
 
 ### Plataforms / Services
-Vercel, Wordpress, Cloudflare, GoDaddy
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Twilio](https://img.shields.io/badge/twilio-e42f41?style=for-the-badge&logo=twilio&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-ef7917?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Godaddy](https://img.shields.io/badge/Godaddy-81dbdc?style=for-the-badge&logo=godaddy&logoColor=black)
+![DialogFlow](https://img.shields.io/badge/DialogFlow-e26700?style=for-the-badge&logo=DialogFlow&logoColor=white)
+![Wordpress](https://img.shields.io/badge/Wordpress-1f6f92?style=for-the-badge&logo=wordpress&logoColor=white)
+![DatoCMS](https://img.shields.io/badge/DatoCMS-f16b48?style=for-the-badge&logo=DatoCMS&logoColor=white)
 
 ## 🔗 Follow me
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=flat-square&logo=ko-fi&logoColor=white)](https://jorgeolarte.com/)
