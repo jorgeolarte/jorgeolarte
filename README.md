@@ -1,10 +1,19 @@
 
 # Hi, I'm Jorge! 👋
 
-- 🚀 Digital Entrepreneur
-- 🤓 Geek 
-- 😎 Teacher as vocation
-- 💻 MSc Software Engineering, just because
+<table>
+  <tr>
+    <td>
+      - 🚀 Digital Entrepreneur
+      - 🤓 Geek 
+      - 😎 Teacher as vocation
+      - 💻 MSc Software Engineering, just because
+    </td>
+    <td>
+      <a href="https://app.daily.dev/jorgeolarte"><img src="https://api.daily.dev/devcards/b6d20d4025114c43bbb6ce20c233f353.png?r=055" width="400" alt="Jorge Olarte's Dev Card"/></a>
+    </td>
+  </tr>
+</table>
 
 ## 🛠 My Skills
 
@@ -29,5 +38,3 @@ Vercel, Wordpress, Cloudflare, GoDaddy
 [![facebook](https://img.shields.io/badge/facebook-1DA1F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/jorgeduardolarte)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/jorgeolarte)
 [![instagram](https://img.shields.io/badge/instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/jorgeolarte)
-
-<a href="https://app.daily.dev/jorgeolarte"><img src="https://api.daily.dev/devcards/b6d20d4025114c43bbb6ce20c233f353.png?r=055" width="400" alt="Jorge Olarte's Dev Card"/></a>
