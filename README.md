@@ -1,9 +1,9 @@
 
 # Hi, I'm Jorge! 👋
 
-<table >
+<table style="width:100%; table-layout: fixed; overflow-wrap: break-word;">
   <tr>
-    <td style="width: 90%;">
+    <td>
       <ul>
         <li>- 🚀 Digital Entrepreneur</li>
         <li>- 🤓 Geek </li>
