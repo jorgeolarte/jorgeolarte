@@ -11,7 +11,7 @@
         <li>- 💻 MSc Software Engineering, just because</li>
       </ul>
       
-      ## 🛠 My Skills
+## 🛠 My Skills
 
 ### Frontend
 HTML, CSS, Tailwindcss
