@@ -26,7 +26,9 @@
 ![Firebase](https://img.shields.io/badge/Firebase-f2c200?style=for-the-badge&logo=firebase&logoColor=ec7a08)
 
 ### Languages
-JS, C#, PHP
+![Javascript](https://img.shields.io/badge/Javascript-ead41c?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/c%23-92458b?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-808bb6?style=for-the-badge&logo=php&logoColor=white)
 
 ### Plataforms / Services
 Vercel, Wordpress, Cloudflare, GoDaddy
