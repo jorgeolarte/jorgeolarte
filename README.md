@@ -2,29 +2,8 @@
 # Hi, I'm Jorge! 👋
 
 |   |   |
-| <ul>
-<li>- 🚀 Digital Entrepreneur</li>
-<li>- 🤓 Geek </li>
-<li>- 😎 Teacher as vocation</li>
-<li>- 💻 MSc Software Engineering, just because</li>
-</ul> | <a href="https://app.daily.dev/jorgeolarte"><img src="https://api.daily.dev/devcards/b6d20d4025114c43bbb6ce20c233f353.png?r=055" width="400" alt="Jorge Olarte's Dev Card"/></a> |
-|   |   |
-
-
-
-<div style="display: grid;">
-<div style="grid-column: 1; grid-row: 1;">
-<ul>
-<li>- 🚀 Digital Entrepreneur</li>
-<li>- 🤓 Geek </li>
-<li>- 😎 Teacher as vocation</li>
-<li>- 💻 MSc Software Engineering, just because</li>
-</ul>
-</div>
-<div style="grid-column: 2; grid-row: 1;">
-<a href="https://app.daily.dev/jorgeolarte"><img src="https://api.daily.dev/devcards/b6d20d4025114c43bbb6ce20c233f353.png?r=055" width="400" alt="Jorge Olarte's Dev Card"/></a>
-</div>
-</div>
+| ------------ | ------------ |
+| - 🚀 Digital Entrepreneur <br>- 🤓 Geek <br>- 😎 Teacher as vocation <br>- 💻 MSc Software Engineering, just because | <a href="https://app.daily.dev/jorgeolarte"><img src="https://api.daily.dev/devcards/b6d20d4025114c43bbb6ce20c233f353.png?r=055" width="200" alt="Jorge Olarte's Dev Card"/></a> |
       
 ## 🛠 My Skills
 
