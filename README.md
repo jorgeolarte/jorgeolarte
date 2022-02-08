@@ -8,7 +8,9 @@
 ## 🛠 My Skills
 
 ### Frontend
-HTML, CSS, Tailwindcss
+![HTML5](https://img.shields.io/badge/HTML5-ee5f27?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0090d1?style=flat-square&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/Tailwindcss-029fb0?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ### Backend / Libraries / Frameworks
 React, React Native, Expo, NextJS
