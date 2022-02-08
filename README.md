@@ -14,7 +14,7 @@
 
 ### Backend / Libraries / Frameworks
 ![React](https://img.shields.io/badge/React-7bd3f7?style=for-the-badge&logo=react&logoColor=000000)
-![React Native](https://img.shields.io/badge/React Native-000000?style=for-the-badge&logo=react&logoColor=7bd3f7)
+![React Native](https://img.shields.io/badge/React%20Native-000000?style=for-the-badge&logo=react&logoColor=7bd3f7)
 ![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white)
 ![NextJS](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
