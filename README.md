@@ -19,7 +19,11 @@
 ![NextJS](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### Databases
-MySQL, MongoDB, GraphQL
+![MySQL](https://img.shields.io/badge/MySQL-da8705?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-259243?style=for-the-badge&logo=mongodb&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-e0309f?style=for-the-badge&logo=graphql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-a52931?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-f2c200?style=for-the-badge&logo=firebase&logoColor=ec7a08)
 
 ### Languages
 JS, C#, PHP
