@@ -1,15 +1,14 @@
 
 # Hi, I'm Jorge! 👋
 
-<table style="width:100%; table-layout: fixed; overflow-wrap: break-word;">
-  <tr>
-    <td>
-      <ul>
-        <li>- 🚀 Digital Entrepreneur</li>
-        <li>- 🤓 Geek </li>
-        <li>- 😎 Teacher as vocation</li>
-        <li>- 💻 MSc Software Engineering, just because</li>
-      </ul>
+<div align="left">
+<ul>
+  <li>- 🚀 Digital Entrepreneur</li>
+  <li>- 🤓 Geek </li>
+  <li>- 😎 Teacher as vocation</li>
+  <li>- 💻 MSc Software Engineering, just because</li>
+</ul>
+</div>
       
 ## 🛠 My Skills
 
@@ -27,12 +26,8 @@ JS, C#, PHP
 
 ### Plataforms / Services
 Vercel, Wordpress, Cloudflare, GoDaddy
-    </td>
-    <td>
+
       <a href="https://app.daily.dev/jorgeolarte"><img src="https://api.daily.dev/devcards/b6d20d4025114c43bbb6ce20c233f353.png?r=055" width="400" alt="Jorge Olarte's Dev Card"/></a>
-    </td>
-  </tr>
-</table>
 
 ## 🔗 Follow me
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=flat-square&logo=ko-fi&logoColor=white)](https://jorgeolarte.com/)
