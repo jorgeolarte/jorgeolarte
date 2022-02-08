@@ -8,12 +8,15 @@
 ## 🛠 My Skills
 
 ### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-ee5f27?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-0090d1?style=flat-square&logo=css3&logoColor=white)
-![CSS3](https://img.shields.io/badge/Tailwindcss-029fb0?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-ee5f27?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0090d1?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwindcss](https://img.shields.io/badge/Tailwindcss-029fb0?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Backend / Libraries / Frameworks
-React, React Native, Expo, NextJS
+![React](https://img.shields.io/badge/React-7bd3f7?style=for-the-badge&logo=react&logoColor=000000)
+![React Native](https://img.shields.io/badge/React Native-000000?style=for-the-badge&logo=react&logoColor=7bd3f7)
+![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white)
+![NextJS](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### Databases
 MySQL, MongoDB, GraphQL
