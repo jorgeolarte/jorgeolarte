@@ -1,7 +1,7 @@
 
 # Hi, I'm Jorge! 👋
 
-<table>
+<table style="width: 100%">
   <tr>
     <td>
       <ul>
