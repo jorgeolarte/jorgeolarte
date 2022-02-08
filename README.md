@@ -4,10 +4,12 @@
 <table>
   <tr>
     <td>
-      - 🚀 Digital Entrepreneur
-      - 🤓 Geek 
-      - 😎 Teacher as vocation
-      - 💻 MSc Software Engineering, just because
+      <ul>
+        <li>- 🚀 Digital Entrepreneur</li>
+        <li>- 🤓 Geek </li>
+        <li>- 😎 Teacher as vocation</li>
+        <li>- 💻 MSc Software Engineering, just because</li>
+      </ul>
     </td>
     <td>
       <a href="https://app.daily.dev/jorgeolarte"><img src="https://api.daily.dev/devcards/b6d20d4025114c43bbb6ce20c233f353.png?r=055" width="400" alt="Jorge Olarte's Dev Card"/></a>
