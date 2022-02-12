@@ -3,7 +3,7 @@
 
 |   |   |
 | ------------ | ------------ |
-| - 🚀 Digital Entrepreneur <br>- 🤓 Geek <br>- 😎 Teacher as vocation <br>- 💻 MSc Software Engineering, just because | <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/jorgeolarte/jorgeolarte/blob/main/devcard.svg" width="250" alt="Jorge Olarte's Dev Card"/></a> |
+| - 🚀 Digital Entrepreneur <br>- 🤓 Geek <br>- 😎 Teacher as vocation <br>- 💻 MSc Software Engineering, just because | <a href="https://app.daily.dev/jorgeolarte"><img src="https://github.com/jorgeolarte/jorgeolarte/blob/main/devcard.svg" width="250" alt="Jorge Olarte's Dev Card"/></a> |
 
 ## 🛠 My Skills
 
