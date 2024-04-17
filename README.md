@@ -1,9 +1,7 @@
 
 # Hi, I'm Jorge! 👋
 
-|   |   |
-| ------------ | ------------ |
-| - 🚀 Digital Entrepreneur <br>- 🤓 Geek <br>- 😎 Teacher as vocation <br>- 💻 MSc Software Engineering, just because | <a href="https://app.daily.dev/jorgeolarte"><img src="https://github.com/jorgeolarte/jorgeolarte/blob/main/devcard.svg" width="250" alt="Jorge Olarte's Dev Card"/></a> |
+<a href="https://app.daily.dev/jorgeolarte"><img src="https://api.daily.dev/devcards/v2/PjiSx6IiM4WVB5K5Z1Wxr.png?type=wide&r=6im" width="652" alt="Jorge Olarte's Dev Card"/></a>
 
 ## 🛠 My Skills
 
