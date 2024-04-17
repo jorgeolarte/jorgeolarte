@@ -1,7 +1,7 @@
 
 # Hi, I'm Jorge! 👋
 
-<a href="https://app.daily.dev/jorgeolarte"><img src="https://api.daily.dev/devcards/v2/PjiSx6IiM4WVB5K5Z1Wxr.png?type=wide&r=6im" width="652" alt="Jorge Olarte's Dev Card"/></a>
+<a href="https://app.daily.dev/jorgeolarte"><img src="https://api.daily.dev/devcards/v2/PjiSx6IiM4WVB5K5Z1Wxr.png?type=wide&r=og2" width="652" alt="Jorge Olarte's Dev Card"/></a>
 
 ## 🛠 My Skills
 
